@@ -1,0 +1,13 @@
+.demo{
+    color: aliceblue;
+    background-color: teal;
+}
+
+.userProfile{
+    border:2px solid #eee;
+}
+
+.vip{
+    color: black;
+    background-color: rgb(206, 186, 162);
+}
